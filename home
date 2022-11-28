@@ -1,0 +1,17 @@
+<div class="main-content">
+  <div class="Cover page">
+    <div class="hover">
+      <h1>E</h1>
+    </div>
+    <div class="hover">
+      <h1>O</h1>
+    </div>
+    <div class="hover">
+      <h1>N</h1>
+    </div>
+    <div class="hover">
+      <h1>S</h1>
+    </div>
+  </div>
+</div>
+<footer><a href="https://twitter.com/meowlivia_" target="_blank"><i class="icon-social-twitter icons"></i></a><a href="https://github.com/oliviale" target="_blank"><i class="icon-social-github icons"></i></a><a href="https://dribbble.com/oliviale" target="_blank"><i class="icon-social-dribbble icons"></i></a></footer>
